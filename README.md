@@ -1,64 +1,73 @@
-# **Airbnb NYC Data Analysis Dashboard**
+# Airbnb NYC Tableau Dashboard
 
-## **Project Overview:**
-This project focuses on analyzing Airbnb data in New York City, leveraging Tableau's robust data visualization capabilities. The objective was to create an interactive dashboard that provides insights into Airbnb listings across various neighborhoods, focusing on metrics like average price, total bookings, and reviews.
+## Project Overview
 
-## **Dashboard Snapshots:**
+This project involves creating an interactive Tableau dashboard to analyze and visualize Airbnb data in New York City. The dataset includes various attributes such as host names, neighborhood groups, room types, pricing, and reviews. The goal of this dashboard is to provide insights into Airbnb trends across different neighborhoods in NYC.
 
-### **1. Data Source Overview**
-![Data Source Overview](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Airbnb%20DataSource.png)
+## Key Features
 
-### **2. Interactive Dashboard**
-![Interactive Dashboard](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Airbnb%20Dashboard.png)
+- **Total Bookings by Neighborhood Group and Room Type:** A bar chart that breaks down total bookings by neighborhood and room type, allowing users to see which areas and types of accommodations are most popular.
+  
+  ![Total Bookings by Neighborhood Group and Room Type](https://path_to_your_image/Bar%20Chart%20for%20Total%20Bookings%20by%20neighbourhood%20group%20.png)
 
-### **3. Average Price in Neighborhoods**
-![Bar Chart: Average Price in Neighborhoods](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Bar%20Chart%20Average%20price%20in%20Neighbourhoods.png)
+- **Top 10 Hosts by Total Reviews:** A bar chart highlighting the top 10 hosts in NYC based on the number of reviews. This helps identify the most active and potentially most reliable hosts.
+  
+  ![Top 10 Hosts by Total Reviews](https://path_to_your_image/Bar%20Chart%20for%20Top%2010%20Hosts.png)
 
-### **4. Top 10 Hosts by Total Reviews**
-![Bar Chart: Top 10 Hosts by Total Reviews](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Bar%20Chart%20for%20Top%2010%20Hosts.png)
+- **Average Price by Neighborhood Group:** A tree map visualizing the average price across different neighborhood groups. This feature helps in comparing pricing trends across NYC.
+  
+  ![Average Price by Neighborhood Group](https://path_to_your_image/Tree%20Chart%20for%20Average%20price%20by%20Neighbourhood.png)
 
-### **5. Total Bookings by Neighborhood Group**
-![Bar Chart: Total Bookings by Neighborhood Group](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Bar%20Chart%20for%20Total%20Bookings%20by%20neighbourhood%20group.png)
+- **Average Reviews per Month by Room Type and Neighborhood Group:** A heat map showing the average number of reviews per month, segmented by room type and neighborhood group. This feature provides insights into the popularity of various room types in different neighborhoods.
+  
+  ![Average Reviews per Month](https://path_to_your_image/Calender%20for%20Average%20reviews%20per%20month.png)
 
-### **6. Total Reviews by Year**
-![Bar Chart: Total Reviews by Year](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Bar%20Chart%20Total%20reviews%20by%20year.png)
+- **Total Reviews by Year:** A bar chart that depicts the number of reviews accumulated each year, helping users to understand the growth or decline in Airbnb usage over time.
+  
+  ![Total Reviews by Year](https://path_to_your_image/Bar%20Chart%20Total%20reviews%20by%20year.png)
 
-### **7. Average Reviews per Month by Room Type and Neighborhood Group**
-![Heat Map: Average Reviews per Month](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Calender%20for%20Average%20reviews%20per%20month.png)
+- **Average Price in Neighborhoods:** A density map illustrating the distribution of average prices across different neighborhoods in NYC.
+  
+  ![Average Price in Neighborhoods](https://path_to_your_image/Density%20Map%20for%20Avg%20Price%20in%20Neighbourhoods.png)
 
-### **8. Average Price in Neighborhoods**
-![Density Map: Average Price in Neighborhoods](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Density%20Map%20for%20Avg%20Price%20in%20Neighbourhoods.png)
+## Technical Details
 
-### **9. Neighborhood Distribution**
-![Pie Chart: Total Neighborhoods](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Pie%20Chart%20For%20Total%20Neighbourhoods.png)
+- **Data Source:** The dataset consists of 48,895 rows and 20 fields, including details such as `Id`, `Name`, `Host Id`, `Host Name`, `Neighbourhood Group`, `Neighbourhood`, `Latitude`, `Longitude`, `Room Type`, and `Price`.
+  
+  ![Data Source](https://path_to_your_image/Airbnb%20DataSource.png)
 
-### **10. Average Price by Neighborhood Group**
-![Tree Map: Average Price by Neighborhood Group](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Tree%20Chart%20for%20Average%20price%20by%20Neighbourhood.png)
+- **Dashboard Creation:** Leveraged Tableau’s robust data visualization tools to create a comprehensive dashboard that is both informative and visually appealing.
+  
+  ![Dashboard Overview](https://path_to_your_image/Airbnb%20Dashboard.png)
 
-## **Key Features:**
-- **Interactive Map Visualizations**: Show average prices by neighborhood and room type.
-- **Stacked Bar Charts**: Analyze total bookings by month, neighborhood group, and room type.
-- **Donut Chart**: Display the distribution of neighborhoods by group.
-- **Heat Maps and Tree Maps**: Visualize average reviews and prices.
+## Stakeholders
 
-## **Technologies Used:**
-- **Tableau**: Main tool for building interactive dashboards.
-- **Excel**: Used for initial data cleaning and preprocessing.
+- **Airbnb Hosts:** Gain insights into the pricing trends and the popularity of different neighborhoods to optimize their listings.
+- **Travelers:** Identify the best neighborhoods and accommodation types based on popularity and pricing.
+- **Real Estate Analysts:** Understand trends in short-term rental pricing across NYC.
+- **Policy Makers:** Analyze the impact of Airbnb on local housing markets.
 
-## **Insights Gained:**
-- **Seasonal Trends**: June sees the highest number of bookings.
-- **Price Distribution**: Manhattan stands out with the highest average prices, making it a premium market.
-- **Neighborhood Popularity**: Manhattan and Brooklyn dominate the listings, with over 85% of neighborhoods.
+## Achievements
 
-## **Who Benefits?**
-- **Hosts**: Optimize listing strategies by understanding price trends and neighborhood dynamics.
-- **Guests**: Find the best neighborhoods to stay in based on price and location.
-- **Data Enthusiasts**: Explore a detailed analysis of Airbnb data in NYC.
+- Created a user-friendly interactive dashboard that consolidates key Airbnb metrics.
+- Provided actionable insights for various stakeholders, helping them make data-driven decisions.
+- Enhanced my skills in data visualization using Tableau, focusing on creating informative and visually appealing dashboards.
 
-## **How to Use:**
-Explore the interactive dashboard to gain insights, optimize strategies, and make data-driven decisions.
+## Insights & Conclusions
+
+- **Manhattan** emerged as the most expensive neighborhood, with an average price of $196.88, whereas **Bronx** had the lowest average price at $87.50.
+- **Brooklyn** and **Manhattan** dominate the market in terms of the number of neighborhoods and listings.
+- **June** saw the highest number of total bookings, indicating a peak season for Airbnb in NYC.
+
+## Conclusion
+
+This project demonstrates the power of Tableau in transforming raw data into meaningful insights. The interactive dashboard created can serve as a tool for hosts, travelers, and analysts to better understand the Airbnb landscape in NYC.
+
+Feel free to explore the dataset and dashboard further to gain deeper insights!
 
 ---
 
-Make sure to replace the placeholder links (`https://github.com/yourusername/your-repo-name/raw/main/path-to-image/`) with the actual paths to the images in your GitHub repository. This will ensure that the images display correctly in your project description. If you need any further adjustments, feel free to ask!
+## How to Access
+
+You can view the complete dashboard and download the Tableau workbook from [here](https://link_to_your_repository).
 
