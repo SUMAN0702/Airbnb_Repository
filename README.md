@@ -35,6 +35,11 @@ This project involves creating an interactive Tableau dashboard to analyze and v
   
   ![Average Price in Neighborhoods](https://github.com/user-attachments/assets/acfa8ac7-f4b9-4c59-af9a-0b4496916e94)
 
+- **Pie Chart: Total Neighborhoods by Neighborhood Group:** A pie chart illustrating the total neighbourhoods by their different neighbourhood groups in NYC.
+  
+  ![Pie Chart For Total Neighborhoods](https://github.com/user-attachments/assets/dfbe90b3-3a0d-4e22-95d3-46cd00c37ad9)
+
+
 
 ## Technical Details
 
