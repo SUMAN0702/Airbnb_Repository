@@ -79,9 +79,3 @@ This project demonstrates the power of Tableau in transforming raw data into mea
 Feel free to explore the dataset and dashboard further to gain deeper insights!
 
 ---
-
-## How to Access
-
-You can view the complete dashboard and download the Tableau workbook from [here](https://link_to_your_repository)
-
-
