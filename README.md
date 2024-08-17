@@ -9,7 +9,7 @@ This project focuses on analyzing Airbnb data in New York City, leveraging Table
 ![Data Source Overview](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Airbnb%20DataSource.png)
 
 ### **2. Interactive Dashboard**
-![Interactive Dashboard](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Airbnb.png)
+![Interactive Dashboard](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Airbnb%20Dashboard.png)
 
 ### **3. Average Price in Neighborhoods**
 ![Bar Chart: Average Price in Neighborhoods](https://github.com/yourusername/your-repo-name/raw/main/path-to-image/Bar%20Chart%20Average%20price%20in%20Neighbourhoods.png)
@@ -57,3 +57,8 @@ This project focuses on analyzing Airbnb data in New York City, leveraging Table
 
 ## **How to Use:**
 Explore the interactive dashboard to gain insights, optimize strategies, and make data-driven decisions.
+
+---
+
+Make sure to replace the placeholder links (`https://github.com/yourusername/your-repo-name/raw/main/path-to-image/`) with the actual paths to the images in your GitHub repository. This will ensure that the images display correctly in your project description. If you need any further adjustments, feel free to ask!
+
