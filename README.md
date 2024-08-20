@@ -1,6 +1,6 @@
-![Airbnb Dashboard](https://github.com/user-attachments/assets/15d71709-32ea-4ce3-988b-824bad1afd8f)# Airbnb NYC Tableau Dashboard
-
 ## Project Overview
+
+![Airbnb Dashboard](https://github.com/user-attachments/assets/15d71709-32ea-4ce3-988b-824bad1afd8f)# Airbnb NYC Tableau Dashboard
 
 This project involves creating an interactive Tableau dashboard to analyze and visualize Airbnb data in New York City. The dataset includes various attributes such as host names, neighborhood groups, room types, pricing, and reviews. The goal of this dashboard is to provide insights into Airbnb trends across different neighborhoods in NYC.
 
